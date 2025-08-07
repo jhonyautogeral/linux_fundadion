@@ -1,4 +1,5 @@
 # The Linux Foundation
+---
 
 ## **O que é**
 A **Linux Foundation** é uma organização sem fins lucrativos fundada em **2000** que promove o crescimento do Linux e desenvolvimento de software colaborativo e open source.
